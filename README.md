@@ -11,3 +11,4 @@ dengan output ada beberapa pilihan, yaitu
 9. Transpose matrix B 
 0. keluar 
 
+@Author : taufik.amary@gmail.com
